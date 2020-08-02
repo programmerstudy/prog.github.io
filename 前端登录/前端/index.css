@@ -2,6 +2,7 @@
 
 body{
     background: url('login壁纸.jpg') no-repeat;  
+    background-size: 100% 100%;
 }
 
 #login-box{
