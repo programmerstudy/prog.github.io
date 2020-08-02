@@ -1,8 +1,7 @@
 @import 'reset.css';
 
 body{
-    background: url('login壁纸.jpg') no-repeat;
-    background-size: 100% 564px;   
+    background: url('login壁纸.jpg') no-repeat;  
 }
 
 #login-box{
